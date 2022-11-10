@@ -1,3 +1,3 @@
-export function greet(name: string): string {
-  return `Hello, ${name}!`;
+export function greet(): string {
+  return "Are you a FizzBuzz Wizz?";
 }
